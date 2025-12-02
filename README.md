@@ -1,8 +1,8 @@
-# Node API 1 Proje Başlangıç Kodu
+ Node API 1 Proje Başlangıç Kodu
 
 ## Giriş
 
-- RESTful API oluşturma.
+- RESTfu#l API oluşturma.
 - CRUD operasyonları tanımlama.
 - API uç noktaları oluşturma.
 
